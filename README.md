@@ -1,6 +1,6 @@
 ## Hello :)
 
-Part of my role as a researcher in neuromorphic machine intelligence is to find answers to those questions, and my approach is twofold. As a neuroscientist, I know the human brain can be complex, but it can also be thought of as a system. When that system operates at the ideal balance between order and chaos, it can give rise to optimal neural computation. But what does that mean, and can we reproduce it in machines?
+Part of my role as a researcher in neuromorphic machine intelligence is to find answers to questions relating to neuroscience and artificial intelligence, and my approach is twofold. As a neuroscientist, I know the human brain can be complex, but it can also be thought of as a system. When that system operates at the ideal balance between order and chaos, it can give rise to optimal neural computation. But what does that mean, and can we reproduce it in machines?
 
 I believe that through understanding critical brain states using EEG data, we can predict state transitions in the brain to mitigate cognitive overload in high-pressure situations, where optimal decision-making capability is key. Secondly, identifying critical behaviour in artificial intelligence systems through functional connectivity-based analysis of artificial neural networks, could give us new directions in weight initialisation and transfer learning techniques. If we can train AI fast and reuse it, what else could we achieve?
 
